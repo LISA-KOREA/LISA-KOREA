@@ -1,6 +1,6 @@
 ## 🄷🅸︎  
 
-<img src="https://v-phinf.pstatic.net/20201218_243/16082541076515xLjd_GIF/vlive_photo_1608253550987.gif" width="5px">
+<img src="https://te.legra.ph/file/23558be9b42169a90c592.gif" width="5px">
 
 
 
