@@ -1,4 +1,4 @@
-## 🄷🅸︎  <img src="https://v-phinf.pstatic.net/20201218_243/16082541076515xLjd_GIF/vlive_photo_1608253550987.gif" width="25px">
+## 🄷🅸︎  <img src="https://v-phinf.pstatic.net/20201218_243/16082541076515xLjd_GIF/vlive_photo_1608253550987.gif" width="20px">
 
 
 
