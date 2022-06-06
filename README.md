@@ -10,7 +10,9 @@
 
 ##
 𒊹︎︎︎ Music lover 🎧 
+
 𒊹︎︎︎ Korean drama ❤️ 
+
 𒊹︎︎︎ Hollywood movies 😍 
 
 ## G̥ͦi̾t̥ͦh̾u̥ͦb̾ S̥ͦt̾ḁͦt̾s̥ͦ
