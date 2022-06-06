@@ -1,4 +1,4 @@
-## 🄷🅸︎  <gif src="https://te.legra.ph/file/f478e920ea1a1874f6043.gif" width="30px">
+## 🄷🅸︎  <gif src="https://te.legra.ph/file/f478e920ea1a1874f6043.jpg" width="30px">
 
 
 
