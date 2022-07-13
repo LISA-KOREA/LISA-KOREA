@@ -1,6 +1,6 @@
 ### 🄷🅸︎  
 
-<img src="https://te.legra.ph/file/23558be9b42169a90c592.gif" width="5px">
+<img src="https://te.legra.ph/file/23558be9b42169a90c592.gif" width="30px">
 
 
 
