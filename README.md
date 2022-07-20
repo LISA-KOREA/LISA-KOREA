@@ -18,4 +18,4 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://instagram.com/lalalalisa_m?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lalalalisa_m?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-darkpink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
