@@ -19,8 +19,8 @@
 ##
 </p>
 <p align="center">
-<a
 <a href="https://instagram.com/lalalalisa_m?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/LISA_FAN_LK"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/channel/UCJztE07IR0GDj0TUeHFX14A?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
