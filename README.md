@@ -23,5 +23,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LISA-KOREA&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA&layout=compact&theme=tokyonight" align="center">
     
-<a href="https://instagram.com/lalalalisa_m?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/LISA_FAN_LK"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+     <a href="https://instagram.com/lalalalisa_m?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/LISA_FAN_LK"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
