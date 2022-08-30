@@ -21,7 +21,6 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight" align="center">
     
