@@ -18,6 +18,8 @@
 𒊹︎︎︎ Mʏ Fʀɪᴇɴᴅs 🫂
 ##
 
+# CONTACT ME [LISA](https://t.me/LISA_FAN_LK)
+
 # Community ❤️
 </p>
 <p align="center">
