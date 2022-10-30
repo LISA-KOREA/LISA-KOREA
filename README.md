@@ -27,6 +27,10 @@
 <a href="https://youtube.com/channel/UCJztE07IR0GDj0TUeHFX14A?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
+### DONATE
+
+[![DONATE](https://te.legra.ph/file/6f351c6e7578d81aa0292.jpg)
+
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LISA-KOREA&theme=tokyonight" align="center">
