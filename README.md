@@ -29,7 +29,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://te.legra.ph/file/6f351c6e7578d81aa0292.jpg)
+![DONATE](https://graph.org/file/da87092a00c8cd8fc1e8c.jpg)
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
