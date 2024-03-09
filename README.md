@@ -9,13 +9,7 @@
 
 
 ##
-𒊹︎︎︎ Mᴜsɪᴄ Lᴏᴠɪᴇʀ 🎧 
-
-𒊹︎︎︎ Kᴏʀᴇᴀɴ Dʀᴀᴍᴀ ❤️ 
-
-𒊹︎︎︎ Hᴏʟʟʏᴡᴏᴏᴅ Mᴏᴠɪᴇs 😍
- 
-𒊹︎︎︎ Mʏ Fʀɪᴇɴᴅs 🫂
+🥱🥱🥱
 ##
  ![logo](https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif)
 # THIS IS ME [LISA](https://t.me/LISA_FAN_LK)
