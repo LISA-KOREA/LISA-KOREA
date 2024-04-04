@@ -31,5 +31,10 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/LISA-KOREA)
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=dark#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LISA-KOREA&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA&layout=compact&theme=tokyonight" align="center">
