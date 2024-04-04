@@ -32,6 +32,7 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 ![git stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=default#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA\&layout=donut)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LISA-KOREA&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA&layout=compact&theme=tokyonight" align="center">
