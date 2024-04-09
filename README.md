@@ -10,8 +10,7 @@
 
 ##
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
-##
- ![logo](https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif)
+
 # THIS IS ME [LISA](https://t.me/LISA_FAN_LK)
 
 # Community ❤️
