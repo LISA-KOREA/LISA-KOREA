@@ -11,7 +11,10 @@
 ##
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
 
-# THIS IS ME [LISA](https://t.me/LISA_FAN_LK)
+# My Profile 
+
+ • My Name : [LISA](https://t.me/LISA_FAN_LK)
+ •
 
 # Community ❤️
 </p>
