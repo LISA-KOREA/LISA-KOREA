@@ -11,10 +11,12 @@
 ##
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
 
-# My Profile 
+# My Info
 
- • My Name : [LISA](https://t.me/LISA_FAN_LK)
- •
+ • **My Name** : [LISA](https://t.me/LISA_FAN_LK)
+ • **My Age** : Not Found
+ • **My Channel** : [@NT_BOT_CHANNEL](https://t.me/NT_BOT_CHANNEL)
+ • **My Place** : Not Found
 
 # Community ❤️
 </p>
