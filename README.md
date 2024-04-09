@@ -9,7 +9,7 @@
 
 
 ##
-🥱🥱🥱
+![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/releases/download/broadcast/IMG_0180.gif)
 ##
  ![logo](https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif)
 # THIS IS ME [LISA](https://t.me/LISA_FAN_LK)
