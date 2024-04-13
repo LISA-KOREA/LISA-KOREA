@@ -21,7 +21,9 @@
  
  • **My Place** : Not Found
 
-# Community ❤️
+ #
+
+### Community ❤️
 </p>
 <p align="center">
 <a href="https://www.instagram.com/nt_bots_tg?igsh=MTQ2bGRuN3liNzV5Zw%3D%3D&utm_source=qr"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://t.me/NT_BOT_CHANNEL"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
