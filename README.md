@@ -40,10 +40,18 @@
 
 ![DONATE](https://graph.org/file/da87092a00c8cd8fc1e8c.jpg)
 #
-### ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![git stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=default#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA\&layout=compact)
 
+
+### ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
+![git stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=default#gh-light-mode-only)
+
+
+<p align="center">
+  <a href="https://github.com/LISA-KOREA">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LISA-KOREA&theme=red&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 
