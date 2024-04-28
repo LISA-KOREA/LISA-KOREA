@@ -58,5 +58,6 @@
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LISA-KOREA=anuraghazra\&layout=donut)
 
 
