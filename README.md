@@ -38,7 +38,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://graph.org/file/da87092a00c8cd8fc1e8c.jpg)
+![DONATE](https://graph.org/file/6524ca79cd04501c4b444.jpg)
 #
 
 
