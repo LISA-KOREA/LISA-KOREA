@@ -19,7 +19,7 @@
  
  • **My Channel** : [@NT_BOT_CHANNEL](https://t.me/NT_BOT_CHANNEL)
  
- • **My Place** : Not Found
+ • **My Place** : Osaka 🇯🇵
 
  #
 
