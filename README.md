@@ -15,7 +15,7 @@
 
  • **My Name** : [LISA](https://t.me/LISA_FAN_LK)
  
- • **My Age** : Not Found
+ • **My Age** : 27
  
  • **My Channel** : [@NT_BOT_CHANNEL](https://t.me/NT_BOT_CHANNEL)
  
@@ -47,11 +47,7 @@
 ![git stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=default#gh-light-mode-only)
 
 
-<p align="center">
-  <a href="https://github.com/LISA-KOREA">  
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LISA-KOREA&theme=red&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+
 
 
 
