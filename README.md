@@ -9,6 +9,7 @@
 
 
 ##
+![logo](https://envs.sh/aqd.mp4)
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
 
 # My Info
