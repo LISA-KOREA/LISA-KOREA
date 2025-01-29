@@ -45,21 +45,11 @@
 
 
 ### ➪ MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![git stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA\&show_icons=true\&theme=default#gh-light-mode-only)
 
-
-
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=LISA-KOREA&theme=red&hide_border=true&stroke=f53b3b)](https://github.com/LISA-KOREA)
-
-
-
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA\&layout=donut)
 
 
 
 
-![](https://visitcount.itsvg.in/api?id=LISA-KOREA)
 
