@@ -39,7 +39,8 @@
 
 ### DONATE 👇
 
-![DONATE](https://vault.pictures/p/3ab6cdb450704aa6b7b22e3f23bb74ed)
+`USDT TRC20` : THPYzzchV2fssaw5RE4TxL8NxJpfctw46J
+
 #
 
 
