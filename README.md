@@ -39,7 +39,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://graph.org/file/6524ca79cd04501c4b444.jpg)
+![DONATE](https://vault.pictures/p/3ab6cdb450704aa6b7b22e3f23bb74ed)
 #
 
 
