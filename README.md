@@ -46,10 +46,6 @@
 
 ### ➪ MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA\&layout=donut)
-
-
-
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
 
