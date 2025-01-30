@@ -40,8 +40,11 @@
 ### DONATE 👇
 
 `USDT TRC20` : THPYzzchV2fssaw5RE4TxL8NxJpfctw46J
+
 `TON` : UQDaTKcHSXzreSR3yMFnmW3XRee7clB23li8JEvmJWpg3nad
+
 `Bitcoin` : 13nQvM1AHUrszqqPUu6AuGxtTaYUk7hwtt
+
 `Tribute` [Click to pay](https://web.tribute.tg/l/yw)
 #
 
