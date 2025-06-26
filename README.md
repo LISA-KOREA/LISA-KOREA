@@ -24,7 +24,7 @@
 
  #
 
-###### You contributed code. You tried to help. And that matters, even if others didn't recognize it right now.
+###### You contributed code? You tried to help? And that matters, even if others didn't recognize it right now.
 
 # Community ❤️
 </p>
