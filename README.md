@@ -54,6 +54,10 @@
 
 ### ➪ MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=LISA-KOREA&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/LISA-KOREA/github-readme-stats)
+
+
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
 
