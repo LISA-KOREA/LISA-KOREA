@@ -1,11 +1,5 @@
 
 
-<img src="https://te.legra.ph/file/23558be9b42169a90c592.gif" width="240px">
-
-
-
-##
-
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
 
 ## 🚀 About Me
@@ -21,7 +15,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/lalisaaaaha">
+  <a href=“https://t.me/LISA_FAN_LK">
     <img src="https://img.shields.io/badge/Telegram-Chat_with_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://t.me/NT_BOT_CHANNEL">
@@ -70,8 +64,6 @@
 ---
 
 
-
-
 ###### You contributed code? You tried to help? And that matters, even if others didn't recognize it right now.
 
 # Community ❤️
@@ -97,10 +89,5 @@
 
 #
 
-
-
-### ➪ MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
 
