@@ -1,126 +1,22 @@
-### 🄷🅸︎  
+
 
 <img src="https://te.legra.ph/file/23558be9b42169a90c592.gif" width="240px">
 
-
-
-
-🄸🅰︎🄼 🅻︎🄸🆂︎🄰 
 
 
 ##
 
 ![lisa](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/assets/106958298/3d13e453-6d05-4eff-a7fe-db1cdae78e82)
 
-# My Info
+## 🚀 About Me
 
  • **My Name** : [LISA](https://t.me/lalisaaaaha)
- 
  • **My Age** : 27
- 
- • **My Channel** : [@NT_BOT_CHANNEL](https://t.me/NT_BOT_CHANNEL)
- 
- 📍 **Location:** Osaka, Japan 🇯🇵
+ • 🌱 **Always learning:** New technologies & better ways to build
+ • 📍 **Location:** Osaka, Japan 🇯🇵
 
  #
 
-
-# 👋 Hey, I'm LISA!
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Python+Developer;Telegram+Bot+Developer;Automation+Enthusiast;Open+Source+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://t.me/lalisaaaaha">
-    <img src="https://img.shields.io/badge/Telegram-@lalisaaaaha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://t.me/NT_BOT_CHANNEL">
-    <img src="https://img.shields.io/badge/Channel-NT_BOT_CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm **LISA**, a developer from **Osaka, Japan 🇯🇵**.
-
-I enjoy building **Telegram bots, automation tools, APIs, and open-source projects** with a focus on creating practical and useful software.
-
-* 👩‍💻 **Developer:** LISA
-* 📍 **Based in:** Osaka, Japan 🇯🇵
-* 🐍 **Main Language:** Python
-* 🤖 **Focus:** Telegram Bots & Automation
-* 🌱 **Always learning:** New technologies & better ways to build
-* 📢 **Telegram:** [@lalisaaaaha](https://t.me/lalisaaaaha)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,linux,git,github,vscode" />
-</p>
-
-### Telegram Development
-
-* 🤖 Pyrogram
-* 🔌 Telegram Bot API
-* ⚡ Async Python
-* 📦 File & Media Processing
-* 🔗 API Integrations
-* ☁️ Cloud & VPS Deployment
-
----
-
-## 🔥 What I Build
-
-```text
-🤖 Telegram Bots
-⚡ Automation Tools
-📥 Download & Upload Systems
-🔗 API Integrations
-🗄️ Database Applications
-☁️ Cloud / VPS Projects
-🧰 Developer Utilities
-🌐 Open Source Projects
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 💻 Featured Projects
-
-> 🚧 More projects coming soon...
-
-Check out my repositories for my latest **Telegram bots, automation projects, and developer tools**.
-
----
 
 ## 🤝 Connect With Me
 
@@ -142,6 +38,37 @@ Check out my repositories for my latest **Telegram bots, automation projects, an
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
+
+<p align="center">
+  <a href="https://t.me/lalisaaaaha">
+    <img src="https://img.shields.io/badge/Telegram-@lalisaaaaha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/NT_BOT_CHANNEL">
+    <img src="https://img.shields.io/badge/Channel-NT_BOT_CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LISA-KOREA&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LISA-KOREA&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 
 
 
