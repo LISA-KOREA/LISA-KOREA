@@ -4,16 +4,15 @@
 
 ## 🚀 About Me
 
- • **My Name** : [LISA](https://t.me/lalisaaaaha)
+ • 👤 **My Name** : [LISA](https://t.me/lalisaaaaha)
  
- • **My Age** : 27
+ • 🎂 **My Age** : 27
  
  • 🌱 **Always learning:** New technologies & better ways to build
  
  • 📍 **Location:** Osaka, Japan 🇯🇵
 
  #
-
 
 ## 🤝 Connect With Me
 
@@ -38,7 +37,6 @@
 
 
 ---
-
 
 
 ## 📈 Contribution Graph
