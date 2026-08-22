@@ -5,8 +5,11 @@
 ## 🚀 About Me
 
  • **My Name** : [LISA](https://t.me/lalisaaaaha)
+ 
  • **My Age** : 27
+ 
  • 🌱 **Always learning:** New technologies & better ways to build
+ 
  • 📍 **Location:** Osaka, Japan 🇯🇵
 
  #
@@ -33,27 +36,10 @@
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
 
-<p align="center">
-  <a href="https://t.me/lalisaaaaha">
-    <img src="https://img.shields.io/badge/Telegram-@lalisaaaaha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://t.me/NT_BOT_CHANNEL">
-    <img src="https://img.shields.io/badge/Channel-NT_BOT_CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LISA-KOREA&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LISA-KOREA&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -89,5 +75,8 @@
 
 #
 
+### MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
+
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=LISA-KOREA&tc=323&ic=323)
 
 
