@@ -36,17 +36,6 @@
 </p>
 
 
----
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LISA-KOREA&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 
 ###### You contributed code? You tried to help? And that matters, even if others didn't recognize it right now.
 
