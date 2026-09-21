@@ -60,6 +60,10 @@
 
 `Bitcoin` : bc1qy5kd8mpw5f7d9l39axwqyncc8kk6g9wvglgt2k
 
+
+<iframe src="https://nowpayments.io/embeds/donation-widget?api_key=33356a53-428e-4a18-92d3-0eb165d7985a" width="346" height="623" frameborder="0" scrolling="no" style="overflow-y: hidden;">
+    Can't load widget
+</iframe>
 #
 
 ### MY 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
