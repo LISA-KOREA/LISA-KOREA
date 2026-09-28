@@ -60,9 +60,6 @@
 
 `Bitcoin` : bc1qy5kd8mpw5f7d9l39axwqyncc8kk6g9wvglgt2k
 
-<a href="https://nowpayments.io/donation?api_key=33356a53-428e-4a18-92d3-0eb165d7985a" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
 
 #
 
